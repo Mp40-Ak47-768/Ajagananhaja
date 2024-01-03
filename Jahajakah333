@@ -1,1 +1,1 @@
-M3=[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=720};FBLC/en_US;FBCR/Airtel;FBMF/rockchip;FBBD/rk30sdk;FBPN/com.facebook.katana;FBDV/NBX-T8014;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]=UA
+M3=FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Airtel;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBDV/TECNO KF8;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1524};FB_FW/1;]=UA
